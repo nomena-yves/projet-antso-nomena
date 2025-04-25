@@ -1,0 +1,17 @@
+.cercle{
+    width:400px ;
+    height: 400px;
+    background-color: black;
+    border-radius: 60%;
+    margin-left: 35%;
+    margin-top: 10px;
+}
+button{
+    background-color: aqua;
+    margin-left: 45%;
+    padding: 0.5px;
+    font-size: 59px;
+}
+.power-on{
+    background-color: blueviolet;
+}
