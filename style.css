@@ -11,6 +11,7 @@ button{
     margin-left: 45%;
     padding: 0.5px;
     font-size: 59px;
+    border-radius: 20px;
 }
 .power-on{
     background-color: blueviolet;
